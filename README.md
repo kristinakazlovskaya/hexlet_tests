@@ -1,0 +1,1 @@
+## Independent work within Hexlet Automatic Testing Course
